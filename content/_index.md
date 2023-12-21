@@ -68,7 +68,7 @@ sections:
           company_url: ''
           company_logo: org-gc
           location: Columbus
-          date_start: '2023-02'
+          date_start: '2023-02-01'
           date_end: ''
           description: |2-
               Responsibilities include:
