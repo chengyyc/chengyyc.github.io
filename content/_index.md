@@ -51,7 +51,7 @@ sections:
 #    design:
 #      columns: '1'
   - block: experience
-  #  id: research
+    id: research
     content:
       title: Research Experience
       # Date format for experience
