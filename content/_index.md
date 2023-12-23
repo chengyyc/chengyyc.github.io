@@ -157,7 +157,7 @@ sections:
       email: cheng.1753@osu.edu
 #      appointment_url: 'https://calendly.com'
       address:
-        street: 328A Cockins Hall, 1958 Neil Avenue
+        street: 1958 Neil Avenue
         city: Columbus
         region: OH
         postcode: '43016'
