@@ -103,8 +103,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        - name: Computer Vision
+          tag: Computer Vision
         - name: Other
           tag: Demo
     design:
