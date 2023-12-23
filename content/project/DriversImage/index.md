@@ -12,7 +12,7 @@ date: '2020-12-01T00:00:00Z'
 external_link: ''
 
 image:
-  caption: @Yingyu
+  caption: Photo by Yingyu
   focal_point: Smart
 
 #links:
