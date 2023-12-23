@@ -1,5 +1,5 @@
 ---
-title: Detecting Distracted Drivers through Camera Image Recognition
+title: Detecting Distracted Drivers through Camera Images
 summary: |2-
   * Adopted two convolutional neural networks, ResNet50 and AlexNet, employing PyTorch to construct multiclassification models for drivers’ image processing and recognition.
   * Executed fine-tuning to prevent overfitting, and calculated confusion matrices for detailed comparison.
