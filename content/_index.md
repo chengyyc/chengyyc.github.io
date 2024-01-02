@@ -84,7 +84,6 @@ sections:
           date_start: '2020-05-01'
           date_end: '2021-05-01'
           description: |2-
-              Responsibilities include:
 
               * Analysing
               * Modelling
