@@ -68,7 +68,7 @@ sections:
           company_url: ''
           company_logo: org-o
           location: Columbus
-          date_start: '2023-02'
+          date_start: '2023-02-01'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -81,8 +81,8 @@ sections:
           company_url: ''
           company_logo: org-r
           location: Houston
-          date_start: '2020-05'
-          date_end: '2021-05'
+          date_start: '2020-05-01'
+          date_end: '2021-05-01'
           description: |2-
 
               * Composed codes in R language realizing LLL lattice basis reduction algorithm, then implemented it to build integer logistic regression models for scoring system in clinical decision.
