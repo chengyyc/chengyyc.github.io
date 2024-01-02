@@ -83,7 +83,12 @@ sections:
           location: Houston
           date_start: '2020-05-01'
           date_end: '2021-05-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+
+              * Analysing
+              * Modelling
+              * Deploying
     design:
       columns: '2'
   - block: portfolio
