@@ -71,23 +71,22 @@ sections:
           date_start: '2023-02-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Performed data cleaning on the dataset, excluded samples of failed simulations.
+              * Established a Bayesian hierarchical framework for computer model outputs and field data, and incorporated model discrepancy.
+              * Adapted Metropolis-Hastings algorithm and Gibbs sampling in R language to carry out simulation realizing MCMC for the Bayesian framework.
         - title: Graduate Research Assistant
           company: Rice University
           company_url: ''
-          company_logo: org-x
+          company_logo: ''
           location: Houston
           date_start: '2020-05-01'
           date_end: '2021-05-01'
           description: |2-
 
-              * Analysing
-              * Modelling
-              * Deploying
+              * Composed codes in R language realizing LLL lattice basis reduction algorithm, then implemented it to build integer logistic regression models for scoring system in clinical decision.
+              * Proposed to use Bayesian posterior projections combined with LLL algorithm to reduce bias resulted from integer constraints, conducted systematic simulations validating high estimation accuracy.
+              * Demonstrated the robustness to the selection of priors for the new proposed method, and further worked on theoretical proofs in asymptotic properties of the estimators.
     design:
       columns: '2'
   - block: portfolio
