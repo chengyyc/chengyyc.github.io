@@ -84,7 +84,7 @@ sections:
           date_end: '2021-05-01'
           description: |2-
 
-              * Composed codes in R language realizing LLL lattice basis reduction algorithm, then implemented it to build integer logistic regression models for scoring system in clinical decision.
+              * Composed codes in R realizing LLL lattice basis reduction algorithm, then implemented it to build integer logistic regression models for scoring system in clinical decision.
               * Proposed to use Bayesian posterior projections combined with LLL algorithm to reduce bias resulted from integer constraints, conducted systematic simulations validating high estimation accuracy.
               * Demonstrated the robustness to the selection of priors for the new proposed method, and further worked on theoretical proofs in asymptotic properties of the estimators.
     design:
