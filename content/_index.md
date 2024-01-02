@@ -66,7 +66,7 @@ sections:
         - title: Graduate Research Assistant
           company: The Ohio State University
           company_url: ''
-          company_logo: osu
+          company_logo: ''
           location: Columbus
           date_start: '2023-02-01'
           date_end: ''
