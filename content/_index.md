@@ -66,9 +66,9 @@ sections:
         - title: Graduate Research Assistant
           company: The Ohio State University
           company_url: ''
-          company_logo: org-gc
+          company_logo: org-o
           location: Columbus
-          date_start: '2023-02-01'
+          date_start: '2023-02'
           date_end: ''
           description: |2-
               Responsibilities include:
@@ -76,14 +76,18 @@ sections:
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Graduate Research Assistant
+          company: Rice University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: org-r
+          location: Houston
+          date_start: '2020-05'
+          date_end: '2021-05'
+          description: |2-
+
+              * Composed codes in R language realizing LLL lattice basis reduction algorithm, then implemented it to build integer logistic regression models for scoring system in clinical decision.
+              * Proposed to use Bayesian posterior projections combined with LLL algorithm to reduce bias resulted from integer constraints, conducted systematic simulations validating high estimation accuracy.
+              * Demonstrated the robustness to the selection of priors for the new proposed method, and further worked on theoretical proofs in asymptotic properties of the estimators.
     design:
       columns: '2'
   - block: portfolio
