@@ -79,15 +79,11 @@ sections:
         - title: Graduate Research Assistant
           company: Rice University
           company_url: ''
-          company_logo: org-xr
+          company_logo: org-x
           location: Houston
-          date_start: '2020-05'
-          date_end: '2021-05'
-          description: |2-
-
-              * Analysing
-              * Modelling
-              * Deploying
+          date_start: '2020-05-01'
+          date_end: '2021-05-01'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: portfolio
