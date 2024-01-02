@@ -79,7 +79,7 @@ sections:
         - title: Graduate Research Assistant
           company: Rice University
           company_url: ''
-          company_logo: org-x
+          company_logo: org-r
           location: Houston
           date_start: '2020-05-01'
           date_end: '2021-05-01'
