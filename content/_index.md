@@ -66,7 +66,7 @@ sections:
         - title: Graduate Research Assistant
           company: The Ohio State University
           company_url: ''
-          company_logo: org-gc
+          company_logo: osu
           location: Columbus
           date_start: '2023-02-01'
           date_end: ''
@@ -79,7 +79,7 @@ sections:
         - title: Graduate Research Assistant
           company: Rice University
           company_url: ''
-          company_logo: org-r
+          company_logo: org-x
           location: Houston
           date_start: '2020-05-01'
           date_end: '2021-05-01'
