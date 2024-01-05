@@ -42,14 +42,6 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-#  - block: skills
-#    content:
-#      title: Skills
-#      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-#      username: admin
-#    design:
-#      columns: '1'
   - block: experience
     id: research
     content:
@@ -118,6 +110,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
+  - block: skills
+    content:
+      title: Skills
+      text: ''
+      # Choose a user to display skills from (a folder name within `content/authors/`)
+      username: admin
+    design:
+      columns: '1'
   - block: markdown
     content:
       title: Gallery

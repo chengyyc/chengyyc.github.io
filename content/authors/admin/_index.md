@@ -48,23 +48,23 @@ education:
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills: ''
-#  - name: Technical
-#    items:
-#      - name: Python
-#        description: ''
-#        percent: 80
-#        icon: python
-#        icon_pack: fab
-#  - name: Hobbies
-#    color: '#eeac02'
-#    color_border: '#f0bf23'
-#    items:
-#      - name: Hiking
-#        description: ''
-#        percent: 60
-#        icon: person-hiking
-#        icon_pack: fas
+ skills: ''
+  - name: Technical
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: python
+        icon_pack: fab
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -94,5 +94,5 @@ social:
 highlight_name: true
 ---
 
-Hi there, I am Yingyu! I am a 3rd year PhD student in Statistics at The Ohio State University, advised by Prof. Oksana Chkrebtii. My research interests involve Bayesian analysis, computer model and machine learning. Currently, I am actively looking for industrial and pharmaceutical research internship positions at the summer of 2024.
+Hi there, I am Yingyu! I am a 3rd year PhD student in Statistics at The Ohio State University, advised by Prof. Oksana Chkrebtii. My research interests involve Bayesian analysis, computer model and machine learning. Currently, I am actively looking for industrial and pharmaceutical research internship opportunities at the summer of 2024.
 {style="text-align: justify;"}
