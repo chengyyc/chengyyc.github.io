@@ -119,6 +119,7 @@ sections:
     design:
       columns: '1'
   - block: markdown
+    id: gallery
     content:
       title: Gallery
       subtitle: ''
