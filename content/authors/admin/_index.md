@@ -54,7 +54,7 @@ skills:
       - name: R
         description: ''
         percent: 90
-        icon: r
+        icon: r-project
         icon_pack: fab
       - name: Python
         description: ''
