@@ -51,39 +51,39 @@ education:
 skills:
   - name: Skills
     items:
+      - name: R
+        description: ''
+        percent: 90
+        icon: r
+        icon_pack: fab
       - name: Python
         description: ''
         percent: 80
         icon: python
         icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: database
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
+      - name: Traveling
         description: ''
         percent: 100
-        icon: cat
+        icon: mountain-sun
         icon_pack: fas
-      - name: Photography
+      - name: Movie
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: clapperboard
+        icon_pack: fas
+      - name: Cooking
+        description: ''
+        percent: 70
+        icon: kitchen-set
         icon_pack: fas
 
 # Social/Academic Networking
