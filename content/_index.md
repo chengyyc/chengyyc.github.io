@@ -112,7 +112,7 @@ sections:
       flip_alt_rows: false
   - block: skills
     content:
-      title: Skills
+      title: About Me
       text: ''
       # Choose a user to display skills from (a folder name within `content/authors/`)
       username: admin
