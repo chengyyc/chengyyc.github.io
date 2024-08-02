@@ -114,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-Hi there, I am Yingyu! I am a 3rd year Ph.D. student in Statistics at The Ohio State University, advised by Prof. Oksana Chkrebtii. My research interests involve Bayesian analysis, computer model and machine learning. Currently, I am actively looking for industrial and pharmaceutical research internship opportunities at the summer of 2024.
+Hi there, I am Yingyu! I am an incoming 4th year Ph.D. student in Statistics at The Ohio State University, advised by Prof. Oksana Chkrebtii. My research interests involve Bayesian analysis, computer model and machine learning. 
 {style="text-align: justify;"}
